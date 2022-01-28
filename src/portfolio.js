@@ -13,7 +13,7 @@ const greeting = {
     "I'm a Junior Front End Web Developer proficient in Javascript, React, Node, HTML/CSS, and SQL.Experienced Marketing Coordinator with a demonstrated history of working in the electrical and electronic manufacturing industry 🚀. "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1PmhH-O4fQ7PkoRVv_7VDKGFZm2Vkzf-J/view?usp=sharing",
+    "https://drive.google.com/file/d/1ij00RD_1ZEj7NrFsLmh1tjLwQmuHjP_7/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
