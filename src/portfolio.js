@@ -303,13 +303,13 @@ const blogSection = {
   blogs: [
     {
       url:
-        "https://johhanes-nguyen.com/prunus/",
+        "https://www.behance.net/gallery/96459833/Prunus",
       title: "Prunus",
       description:
         "Do want to have a great spot during cherry blossom without seeking ?"
     },
     {
-      url: "https://johhanes-nguyen.com/knack/",
+      url: "https://www.behance.net/gallery/96463223/Knack",
       title: "Knack - Fine Artworks of the World ",
       description:
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
@@ -339,7 +339,7 @@ const blogSection = {
         "Building a simple movie API and implementing to an web app for checking Movie with different genres."
     },
     {
-      url: "https://johhanes-nguyen.com/react-movie-app/",
+      url: "https://nervous-banach-a9e1c4.netlify.app/",
       title: "React Movie App",
       description:
         "A movie app for checking TV shows and trending Movies by fetching API from https://www.themoviedb.org/ with different frameworks."
