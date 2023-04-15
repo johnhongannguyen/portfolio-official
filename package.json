@@ -48,6 +48,7 @@
   },
   "description": "![ReactJS Resume Website Template](portfolio.png?raw=true \"ReactJS Resume Website Template\")",
   "main": "index.js",
-  "author": "",
-  "license": "ISC"
+  "author": "johnhongannguyen <johhaneshongan@gmail.com>",
+  "license": "ISC",
+  "repository": "https://github.com/johnhongannguyen/portfolio-official.git"
 }
