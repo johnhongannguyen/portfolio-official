@@ -148,12 +148,12 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Junior IT Support",
+      role: "Support Engineer",
       company: "Dan-D Pak",
       companylogo: require("./assets/images/dan-d.png"),
-      date: " May 2021 – Present",
+      date: " August 2022 – Present",
       desc:
-        "A good step to be a Web Developer. ",
+        "Research, diagnose, troubleshoot, and resolve customer issues in accurate and timely manner ",
       descBullets: [
         "Maintain hardware and software on desktop PCs and electric devices",
         "Provide technical Support",
@@ -164,9 +164,9 @@ const workExperiences = {
       role: "Ecommmerce Coordinator",
       company: "Urban Fare",
       companylogo: require("./assets/images/urban.png"),
-      date: "July 2019 – September 2020",
+      date: "September 2020 – July 2022",
       desc:
-        "I had a good experience at Urban Fare where I can enhance my abilities in managing different tasks and bringing a core value from the company to customers.",
+        "Oversee all aspects of the e-commerce system",
       descBullets:[
         "Utilize POS and Ecommerce system to deal with delivery issues.",
         "Collaborate with internal departments to ensure customer satisfaction rate.",
@@ -179,7 +179,7 @@ const workExperiences = {
       companylogo: require("./assets/images/schneider-logo.png"),
       date: "January 2016 – December 2016",
       desc:
-        "My very first job in Vietnam after graduating defined myself to turn into developer. That is creating a friendly UX/UI for the products ",
+        "Create advertising campaigns, pricing strategies and targeting the demographic data of their target audience ",
       descBullets:[
         "Support in variety of marketing documents,",
         "Design posters, standees, and leaflets by using Photoshop and Illustrator",
