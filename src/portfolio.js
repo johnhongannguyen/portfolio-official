@@ -13,7 +13,7 @@ const greeting = {
     "I'm a Junior Front End Web Developer proficient in Javascript, React, Node, HTML/CSS, and SQL.Experienced Marketing Coordinator with a demonstrated history of working in the electrical and electronic manufacturing industry 🚀. "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ij00RD_1ZEj7NrFsLmh1tjLwQmuHjP_7/view?usp=sharing",
+    "https://drive.google.com/file/d/1nP4Kppe351zllzg-GAJY_cH7mYLo5_2x/view",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -148,29 +148,29 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Support Engineer",
+      role: "Junior Software Developer / Technical Support Engineer",
       company: "Dan-D Pak",
       companylogo: require("./assets/images/dan-d.png"),
       date: " August 2022 – Present",
       desc:
         "Research, diagnose, troubleshoot, and resolve customer issues in accurate and timely manner ",
       descBullets: [
-        "Maintain hardware and software on desktop PCs and electric devices",
-        "Provide technical Support",
+        "Analyzed and debugged server issues in React.js applications",
+        "Reviewed & developed ideas for improving current systems,",
         "Debug error from the systems"
       ]
     },
     {
-      role: "Ecommmerce Coordinator",
+      role: "Web Application Support (Ecommerce)",
       company: "Urban Fare",
       companylogo: require("./assets/images/urban.png"),
       date: "September 2020 – July 2022",
       desc:
         "Oversee all aspects of the e-commerce system",
       descBullets:[
-        "Utilize POS and Ecommerce system to deal with delivery issues.",
-        "Collaborate with internal departments to ensure customer satisfaction rate.",
-        "Assist departments for ordering merchandises by keeping track of items."
+        "Designed, developed and implemented web based e-commerce applications.",
+        "Acted as a liaison between development team and client.",
+        "Developed a RESTful API with authentication system by using Firebase"
       ]
     },
     {
@@ -315,13 +315,13 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     },
     {
-      url: "https://johhanes-nguyen.com/outreach/",
+      url: "https://www.youtube.com/watch?v=66Fd35ho60c",
       title: "Outreach - Heal the World",
       description:
         "Outreach is a post-disaster management app for the effective use and management of unaffiliated volunteers."
     },
     {
-      url: "https://johhanes-nguyen.com/rebuild-tesla-homepage/",
+      url: "https://github.com/johnhongannguyen/tesla",
       title: "Rebuild Tesla Landing Page",
       description:
         "It's built by React js."
@@ -342,7 +342,17 @@ const blogSection = {
       url: "https://nervous-banach-a9e1c4.netlify.app/",
       title: "React Movie App",
       description:
-        "A movie app for checking TV shows and trending Movies by fetching API from https://www.themoviedb.org/ with different frameworks."
+        "A movie app for checking TV shows and trending Movies by fetching API from https://www.themoviedb.org/ with different frameworks.",
+      skillName: "reactjs",
+      fontAwesomeClassname: "fab fa-react"
+    },
+    {
+      url: "https://crwn-clothing-v2-brdf-3sdz0ko7g-johnhongannguyen.vercel.app/",
+      title: "Ecommerce Web App",
+      description:
+        "Ecommerce Web App using FERN stack",
+      skillName: "reactjs",
+      fontAwesomeClassname: "fab fa-react"
     }
   ],
   display: true // Set false to hide this section, defaults to true
